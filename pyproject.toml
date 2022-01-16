@@ -12,6 +12,7 @@ jupyter = "^1.0.0"
 matplotlib = "^3.5.1"
 scikit-learn = "^1.0.1"
 tqdm = "^4.62.3"
+jupyterlab = "^3.2.8"
 
 [tool.poetry.dev-dependencies]
 
